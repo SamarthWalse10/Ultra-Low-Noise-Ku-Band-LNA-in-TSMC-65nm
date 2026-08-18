@@ -82,4 +82,3 @@ The LNA was rigorously simulated to ensure robust performance across varying **V
 * **Power Handling (OP1dB):**
 <img width="1910" height="825" alt="output_P1db_Ku-LNA" src="https://github.com/user-attachments/assets/7c2a5670-a6ce-46e6-aba6-f60352127239" />
 &nbsp;
-

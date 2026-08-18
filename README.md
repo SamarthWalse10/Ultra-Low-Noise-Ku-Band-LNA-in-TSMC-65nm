@@ -51,10 +51,6 @@ The LNA was rigorously simulated to ensure robust performance across varying **V
 
 ## Result Imagery
 
-* **Complete LNA Schematic:**
-<img width="1482" height="730" alt="schematic_Ku-LNA" src="https://github.com/user-attachments/assets/65985773-de77-44c0-aae3-93e4f9f2d629" />
-&nbsp;
-
 * **Noise Figure (NF) Across Voltage & Temperature:**
 <img width="1614" height="532" alt="image" src="https://github.com/user-attachments/assets/70d2fa66-a435-46bd-8678-21477d4e2c67" />
 &nbsp;

@@ -40,7 +40,7 @@ Traditional LNAs rely on a noisy series gate inductor ($L_G$) for 50-ohm matchin
 
 ---
 
-## Simulation Results (Virtuoso ADE L)
+## Simulation Results (Virtuoso ADE_Explorer)
 The LNA was rigorously simulated to ensure robust performance across varying **Voltage** (1.1V, 1.2V, 1.3V) and **Temperature** (-40°C, 25°C, 85°C) corners. *(Note: Process corners were excluded from this specific simulation set to isolate voltage/temperature dependence)*. By operating the SNIM topology at a higher current density (1.2V, 51.44 mW), the design successfully overcomes the inherent substrate losses of bulk CMOS, matching the noise profile of advanced SOI technologies.
 
 * **Noise Figure**: Peaks at an ultra-low 1.06 dB at 11.725 GHz, remaining highly competitive even at the worst-case 85°C temperature corner.

@@ -3,7 +3,7 @@
 Cadence Virtuoso implementation of an ultra-low noise Ku-Band (10.7–12.75 GHz) LNA in TSMC 65nm bulk CMOS, utilizing Simultaneous Noise and Impedance Matching (SNIM) to achieve a 1.06 dB Noise Figure.
 
 ## Project Overview
-This repository contains the full-custom transistor-level design and simulation documentation for an ultra-low noise Ku-Band LNA. Developed as part of the EE698L RFIC Design coursework at the **Indian Institute of Technology (IIT) Kanpur**, the LNA is implemented using the TSMC 65nm bulk CMOS process. 
+This repository contains the full-custom transistor-level design and simulation documentation for an ultra-low noise Ku-Band LNA. Developed as part of the EE698L RFIC Design coursework at IIT Kanpur, the LNA is implemented using the TSMC 65nm bulk CMOS process. 
 
 The primary objective of this project was to match and exceed the performance of a commercial Silicon-on-Insulator (SOI) benchmark RFIC (the Renesas F6931) using a standard, lossy bulk CMOS substrate.
 
